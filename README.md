@@ -1,4 +1,4 @@
-# SMASH BURGER CRUD Application with React and JSON Server
+# SMASH BURGER CRUD Application
 
 ## Introduction
 

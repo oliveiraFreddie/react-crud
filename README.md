@@ -4,6 +4,13 @@
 
 This project is a simple CRUD (Create, Read, Update, Delete) application developed using React for the frontend and JSON Server for the backend. It allows users to perform basic operations on a dataset, and the frontend is responsive, catering to various screen sizes, including large, medium, and small screens.
 
+![Welcome](https://github.com/oliveiraFreddie/screenshots/blob/472cebbdce57e2d877849523affe8c390eab12ec/Captura%20de%20tela%202023-09-18%20081404.png)
+![01](https://github.com/oliveiraFreddie/screenshots/blob/472cebbdce57e2d877849523affe8c390eab12ec/Captura%20de%20tela%202023-09-18%20081217.png)
+![02](https://github.com/oliveiraFreddie/screenshots/blob/472cebbdce57e2d877849523affe8c390eab12ec/Captura%20de%20tela%202023-09-18%20081300.png)
+![03](https://github.com/oliveiraFreddie/screenshots/blob/472cebbdce57e2d877849523affe8c390eab12ec/Captura%20de%20tela%202023-09-18%20081319.png)
+![server](https://github.com/oliveiraFreddie/screenshots/blob/472cebbdce57e2d877849523affe8c390eab12ec/Captura%20de%20tela%202023-09-18%20081616.png)
+
+
 ## Features
 
 - Create, read, update, and delete records from a dataset.
